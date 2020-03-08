@@ -1,9 +1,9 @@
 {
-	"versionCode" : "603",
-	"versionName" : "6.0.3",
+	"versionCode" : "604",
+	"versionName" : "6.0.4",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、修复Android 10上息屏刷卡功能存在的bug（导致系统不断地重启等等）||2、修复卡片删除和备份功能的bug||3、尝试修复部分一加和小米手机在Android 10上无法正常使用的bug，有可能还不行。||4、适配最新版本material控件的Dark Mode||5、完善帮助文档（添加Android 10 Magisk无法挂载system或vendor分区为可读性模式的处理方法）||6、更新服务链接更换（之前的更新链接放在码云的git仓库上面，由于用户越来越多，每天访问更新服务的次数过多，被码云封了，现在把更新服务放到GitHub上面了）",
-	"message_en" : "1、Fix the bugs of Xposed/EdXposed features in the Android 10 (causing the system to continuously restart, etc.)||2、Fix the problem of card deletion and backup function.||3、Try to repair some bugs of oneplus and the Xiaomi phone which can not be used normally on Android 10.||4、Adapt to the latest version of the material component Dark Mode||5、Update the documentation(add Android 10 Magisk can not mount the system or vendor partition for the readability mode of processing)||6、Change the update service link (the previous update link is placed on the git repository of the gitee, due to more and more users, too many times to access the update service every day, was blocked by gitee, now put the update service on GitHub)"	
+	"message" : "修复部分bug和提升稳定性",
+	"message_en" : "General stability & performance improvements."	
 }
