@@ -1,9 +1,9 @@
 {
-	"versionCode" : "604",
-	"versionName" : "6.0.4",
+	"versionCode" : "605",
+	"versionName" : "6.0.5",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "修复部分bug和提升稳定性",
-	"message_en" : "General stability & performance improvements."	
+	"message" : "新增适配一些特殊的nfc配置文件，之前模拟卡id的失败的可以试试（试之前需要清除APP缓存）",
+	"message_en" : "Newly adapted some special nfc configuration files (Need to clear the APP cache before trying)"	
 }
