@@ -1,9 +1,9 @@
 {
-	"versionCode" : "605",
-	"versionName" : "6.0.5",
+	"versionCode" : "606",
+	"versionName" : "6.0.6",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "新增适配一些特殊的nfc配置文件，之前模拟卡id的失败的可以试试（试之前需要清除APP缓存）",
-	"message_en" : "Newly adapted some special nfc configuration files (Need to clear the APP cache before trying)"	
+	"message" : "1、升级生成'Magisk卡模块'的模板到最新的版本||2、适配Android 9和Android 10的息屏刷卡功能（支持大部分类原生Android系统，国内定制的系统没测试过）||3、修复还原操作导致小米MIUI和一加的nfc功能无法正常工作的bug||4、适配product分区",
+	"message_en" : "1、Upgrade the template of 'Magisk Module' to the latest version.||2、Adapt Edxposed(Xposed) features(Enable NFC pooling while 'phone is locked and screen is off' for Android 9 and above) (support most native Android systems)||3、Fix the bug that the restore operation causes Xiaomi MIUI and OnePlus' nfc function to not work properly.||4、Adapt product partition."	
 }
