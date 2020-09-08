@@ -1,9 +1,9 @@
 {
-	"versionCode" : "607",
-	"versionName" : "6.0.7",
+	"versionCode" : "608",
+	"versionName" : "6.0.8",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、适配Android 11 beta1||2、修复选择卡片页面显示异常的bug||3、减少App大小",
-	"message_en" : "1、Support Android 11 Beta1.||2、Fix the bug that the 'Select the card style' page displays abnormally.||3、Reduce App size."	
+	"message" : "1、修复bug||2、性能优化",
+	"message_en" : "General stability & performance improvements."	
 }
