@@ -1,9 +1,9 @@
 {
-	"versionCode" : "610",
-	"versionName" : "6.1.0",
+	"versionCode" : "611",
+	"versionName" : "6.1.1",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、修复bug||2、帮助文档更新",
-	"message_en" : "1、General stability & performance improvements.||2、Update the help documentation"	
+	"message" : "1、修复bug||2、帮助文档更新||3、添加日语翻译",
+	"message_en" : "1、General stability & performance improvements.||2、Update the help documentation||3、Add Japanese translation"	
 }
