@@ -1,9 +1,9 @@
 {
-	"versionCode" : "611",
-	"versionName" : "6.1.1",
+	"versionCode" : "700",
+	"versionName" : "7.0.0",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、修复bug||2、帮助文档更新||3、添加日语翻译",
-	"message_en" : "1、General stability & performance improvements.||2、Update the help documentation||3、Add Japanese translation"	
+	"message" : "1、支持Google Pixel 4/4XL、Pixel 4a、 Pixel 5/5XL和Pixel 5a手机||2、支持猫头鹰系统||3、适配一加氧系统（一加手机）||4、支持LSPosed（需要勾选com.android.nfc系统进程）||5、还适配了大量其他的系统（之前模拟后，如果读出来的ID不是固定的，都可以试试这个新版本，这次绝大部分都支持了）||6、适配Android 11新特性，在电源开关的控制面板中进行快捷模拟和切换卡片（专业版）",
+	"message_en" : "1. Support Google Pixel 4/4XL, Pixel 4a, Pixel 5/5XL and Pixel 5a phones.||2. Support DerpFest system.||3. Adapt to OnePlus oxygen system (OnePlus phones).||4. Support LSPosed (the 'com.android.nfc' system process needs to be checked).||5. It is also adapted to a large number of other systems.||6. Adapt to the new features of Android 11, perform quick simulation and switch cards in the control panel of the power button."	
 }
