@@ -1,9 +1,9 @@
 {
-	"versionCode" : "700",
-	"versionName" : "7.0.0",
+	"versionCode" : "701",
+	"versionName" : "7.0.1",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、支持Google Pixel 4/4XL、Pixel 4a、 Pixel 5/5XL和Pixel 5a手机||2、支持猫头鹰系统||3、适配一加氧系统（一加手机）||4、支持LSPosed（需要勾选com.android.nfc系统进程）||5、还适配了大量其他的系统（之前模拟后，如果读出来的ID不是固定的，都可以试试这个新版本，这次绝大部分都支持了）||6、适配Android 11新特性，在电源开关的控制面板中进行快捷模拟和切换卡片（专业版）",
-	"message_en" : "1. Support Google Pixel 4/4XL, Pixel 4a, Pixel 5/5XL and Pixel 5a phones.||2. Support DerpFest system.||3. Adapt to OnePlus oxygen system (OnePlus phones).||4. Support LSPosed (the 'com.android.nfc' system process needs to be checked).||5. It is also adapted to a large number of other systems.||6. Adapt to the new features of Android 11, perform quick simulation and switch cards in the control panel of the power button."	
+	"message" : "1、适配Android 10以上版本的分区存储机制（更新后，卡片备份和还原需要手动执行，另外少部分Android 11系统需要重新选择自定义卡片背景，如果之前设置了）||2、适配一加氢和氧系统息屏刷卡功能||3、适配MIUI息屏刷卡功能||4、TargetSdk升级到30 (Android 11)||5、适配部分不支持的系统||6、优化LSPosed的模块默认作用域设置||7、完善帮助文档，遇到问题，请先看帮助文档||8、移除AndroidManifest.xml不必要的配置",
+	"message_en" : "1. Adapt to the scoped storage mechanism of Android 10 and above (after the update, card backup and restore need to be performed manually, and a small number of Android 11 systems need to re-select the custom card background, if it has been previously set)||2. Adapt to enable nfc function when screen is off of the Hydrogenation and Oxygen system of OnePlus||3. Adapt to enable nfc function when screen is off of the MIUI system.||4. Upgrade TargetSdk to 30 (Android 11)||5. Adapt some other systems of not support before||6. Optimize the default scope setting of LSPosed's module||7. Improve help documentation, if you encounter any problems, please read the help document first||8. Remove unnecessary configuration in AndroidManifest.xml"	
 }
