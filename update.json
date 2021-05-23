@@ -1,9 +1,9 @@
 {
-	"versionCode" : "701",
-	"versionName" : "7.0.1",
+	"versionCode" : "7.0.2",
+	"versionName" : "7.0.2",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、适配Android 10以上版本的分区存储机制（更新后，卡片备份和还原需要手动执行，另外少部分Android 11系统需要重新选择自定义卡片背景，如果之前设置了）||2、适配一加氢和氧系统息屏刷卡功能||3、适配MIUI息屏刷卡功能||4、TargetSdk升级到30 (Android 11)||5、适配部分不支持的系统||6、优化LSPosed的模块默认作用域设置||7、完善帮助文档，遇到问题，请先看帮助文档||8、移除AndroidManifest.xml不必要的配置",
-	"message_en" : "1. Adapt to the scoped storage mechanism of Android 10 and above (after the update, card backup and restore need to be performed manually, and a small number of Android 11 systems need to re-select the custom card background, if it has been previously set)||2. Adapt to enable nfc function when screen is off of the Hydrogenation and Oxygen system of OnePlus||3. Adapt to enable nfc function when screen is off of the MIUI system.||4. Upgrade TargetSdk to 30 (Android 11)||5. Adapt some other systems of not support before||6. Optimize the default scope setting of LSPosed's module||7. Improve help documentation, if you encounter any problems, please read the help document first||8. Remove unnecessary configuration in AndroidManifest.xml"	
+	"message" : "1、修复模拟卡片时导致部分系统卡死的问题||2、修复每次操作时Magisk都弹好多次授权提示弹框的问题||3、大大提升模拟速度，只需2 ~ 4秒||4、适配部分极光系统",
+	"message_en" : "1. Fix the issue that caused some systems to freeze when simulating a card.||2. Fix the problem that Magisk pops up authorization prompts many times during each operation.||3. Greatly improve the simulation speed, it only takes 2 to 4 seconds.||4. Adapt part of the Aurora system."	
 }
