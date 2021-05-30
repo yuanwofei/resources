@@ -4,6 +4,6 @@
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、修复模拟卡片时导致部分系统卡死的问题||2、修复每次操作时Magisk都弹好多次授权提示弹框的问题||3、大大提升模拟速度，只需2 ~ 4秒||4、适配部分极光系统",
-	"message_en" : "1. Fix the issue that caused some systems to freeze when simulating a card.||2. Fix the problem that Magisk pops up authorization prompts many times during each operation.||3. Greatly improve the simulation speed, it only takes 2 to 4 seconds.||4. Adapt part of the Aurora system."	
+	"message" : "1、添加'跟随系统'的主题||2、提升模拟速度||3、适配Android 12",
+	"message_en" : "1. Add \"follow the system\" theme||2. Improve simulation speed||3. Adapt to Android 12"	
 }
