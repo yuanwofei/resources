@@ -1,9 +1,9 @@
 {
-	"versionCode" : "703",
-	"versionName" : "7.0.3",
+	"versionCode" : "704",
+	"versionName" : "7.0.4",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、添加'跟随系统'的主题||2、提升模拟速度||3、适配Android 12",
-	"message_en" : "1. Add \"follow the system\" theme||2. Improve simulation speed||3. Adapt to Android 12"	
+	"message" : "1、适配oppo ColorOS系统||2、修复部分系统识别卡片时多次弹框的bug||3、帮助文档更新||4、代码优化和修复一些bug",
+	"message_en" : "1. Adapt to OPPO ColorOS system.||2. Fix the bug that some systems pop up multiple dialog when recognizing the card.||3. Help document update.||4. Code optimization and fix some bugs."	
 }
