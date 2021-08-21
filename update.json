@@ -1,9 +1,9 @@
 {
-	"versionCode" : "704",
-	"versionName" : "7.0.4",
+	"versionCode" : "705",
+	"versionName" : "7.0.5",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、适配oppo ColorOS系统||2、修复部分系统识别卡片时多次弹框的bug||3、帮助文档更新||4、代码优化和修复一些bug",
-	"message_en" : "1. Adapt to OPPO ColorOS system.||2. Fix the bug that some systems pop up multiple dialog when recognizing the card.||3. Help document update.||4. Code optimization and fix some bugs."	
+	"message" : "1、适配Android 12||2、支持Android 12新增的息屏刷卡新特性||3、Target api版本升至31||4、修复bug",
+	"message_en" : "1. Adapt to Android 12||2. Target api version increased to 31||3. Fix some bugs"	
 }
