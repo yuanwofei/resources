@@ -1,9 +1,9 @@
 {
-	"versionCode" : "705",
-	"versionName" : "7.0.5",
+	"versionCode" : "706",
+	"versionName" : "7.0.6",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、适配Android 12||2、支持Android 12新增的息屏刷卡新特性||3、Target api版本升至31||4、修复bug",
-	"message_en" : "1. Adapt to Android 12||2. Target api version increased to 31||3. Fix some bugs"	
+	"message" : "1、修复bug",
+	"message_en" : "1、General stability & performance improvements."	
 }
