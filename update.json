@@ -1,9 +1,9 @@
 {
-	"versionCode" : "707",
-	"versionName" : "7.0.7",
+	"versionCode" : "708",
+	"versionName" : "7.0.8",
 	"url" : "",
 	"size" : "2362857",
 	"md5" : "45451ejedf",
-	"message" : "1、适配Android 12新设计语言Material You(专业版)||2、帮助文档调整，遇到问题请先查看帮助文档||3、修复bug",
-	"message_en" : "1、Adapt to the new design language of Android 12 Material You.||2、General stability & performance improvements."	
+	"message" : "1、进一步适配Android 12新设计语言Material You||2、调整一键还原功能，修复部分机型卸载后重新安装找不到nfc配置文件的bug(这种情况需要先执行一键还原)||3、修复bug和性能优化",
+	"message_en" : "1、Further adapt to Material You, the new design language of Android 12.||2、General stability & performance improvements."	
 }
