@@ -1,9 +1,9 @@
 {
-	"versionCode" : "708",
-	"versionName" : "7.0.8",
+	"versionCode" : "709",
+	"versionName" : "7.0.9",
 	"url" : "",
-	"size" : "2362857",
-	"md5" : "45451ejedf",
-	"message" : "1、进一步适配Android 12新设计语言Material You||2、调整一键还原功能，修复部分机型卸载后重新安装找不到nfc配置文件的bug(这种情况需要先执行一键还原)||3、修复bug和性能优化",
-	"message_en" : "1、Further adapt to Material You, the new design language of Android 12.||2、General stability & performance improvements."	
+	"size" : "2489703",
+	"md5" : "B651DFE223B0F2E8027E16AE2DEEF2A5",
+	"message" : "1、修复开启读卡器模式读卡会出现多次弹框的bug||2、修复写cuid白卡提示却提示不是cuid白卡的bug||3、模拟和还原操作添加同步限制||4、添加NfcBarcode协议支持",
+	"message_en" : "1. Fix the bug that the dialog box will pop up multiple times when reading the card after opening the card reader mode.||2. Fix the bug that the function of writing cuid card reports that it is not a cuid card||3. Add synchronization restrictions for simulation and restore operations.||4. Add NfcBarcode protocol support."	
 }
