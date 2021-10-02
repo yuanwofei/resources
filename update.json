@@ -5,5 +5,5 @@
 	"size" : "2489703",
 	"md5" : "B651DFE223B0F2E8027E16AE2DEEF2A5",
 	"message" : "1、修复部分手机由于没有安装DocumentsUI app，导致生成模块功能闪退||2、模拟按钮适配Material You设计语言||3、优化日志反馈功能||4、完善帮助文档，遇到问题请先查看帮助文档",
-	"message_en" : "1. Fix that some mobile phones do not have the DocumentsUI app installed, causing the function of generating the magisk module to crash.||2. The simulate button adapts to Material You design language||3. Optimize the log feedback function||4. Improve the help document, please check the help document first if you have any problems."	
+	"message_en" : "1. Fix that some mobile phones do not have the DocumentsUI app installed, causing the function of generating the magisk module to crash.||2. The simulate button adapts to Material You design language.||3. Optimize the log feedback function.||4. Improve the help document, please check the help document first if you have any problems."	
 }
