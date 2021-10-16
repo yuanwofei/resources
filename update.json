@@ -1,9 +1,9 @@
 {
-	"versionCode" : "711",
-	"versionName" : "7.1.1",
-	"url" : "",
-	"size" : "2489703",
-	"md5" : "B651DFE223B0F2E8027E16AE2DEEF2A5",
-	"message" : "1、修复部分系统添加卡片闪退的bug。||2、修复部分系统插入卡id错乱，导致模拟不成功的bug。",
-	"message_en" : "1. Fix the bug that some systems add card crashes.||2. Fix the bug that some systems insert card id incorrectly, which causes the simulation to be unsuccessful.||3、General stability & performance improvements."	
+    "versionCode": "712",
+    "versionName": "7.1.2",
+    "url": "",
+    "size": "2489703",
+    "md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
+    "message": "1、修复部分系统生成magisk卡模块或tasker配置文件的提示文件名不正确的bug||2、修复Android 11电源控制面板快捷还原卡片提示信息不正确的bug||3、在Android 11以上系统的电源控制面板中增加长按卡片打开主页的功能||4、帮助文档完善，遇到问题请先查看帮助文档||5、进一步适配息屏刷卡功能，目前绝大大部分系统的都支持了，对于少数不支持的，请参考帮助文档把相关文件发给我适配。||6、优化watch页面||7、代码精简和优化",
+    "message_en": "1. Add the function of long pressing the card to open the homepage in the power control panel of Android 11 and above.||2. Improve the help documentation, please check the help document first if you encounter any problems.||3. Further adapt to the Xposed features, support most Android systems.||4. Optimize the watch page.||5. General stability & performance improvements."
 }
