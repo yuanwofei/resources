@@ -1,9 +1,9 @@
 {
-    "versionCode": "714",
-    "versionName": "7.1.4",
+    "versionCode": "715",
+    "versionName": "7.1.5",
     "url": "",
     "size": "2489703",
     "md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-    "message": "1、优化模拟逻辑||2、优化繁体中文翻译||3、修复已知bug",
-    "message_en": "1、Optimize traditional Chinese translation.||2、General stability & performance improvements."
+    "message": "1、调整之前适配odm分区的功能，因为magisk还不支持odm分区，不然会导致部分系统模拟报错||2、修复部分系统报'找不到NFC配置文件'的bug",
+    "message_en": "1. General stability & performance improvements."
 }
