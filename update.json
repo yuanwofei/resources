@@ -1,9 +1,9 @@
 {
-    "versionCode": "717",
-    "versionName": "7.1.7",
+    "versionCode": "720",
+    "versionName": "7.2.0",
     "url": "",
     "size": "2489703",
     "md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-    "message": "1、优化logo图标||2、修复Google Play报出的安全漏洞问题||3、修复部分机型模拟后NFC异常关闭的bug,，需要先执行一键还原，再清除缓存，最后重新添加卡片",
-    "message_en": "1、General stability & performance improvements.|| 2、Optimize the log"
+    "message": "1、修复Google Play报出的安全漏洞问题",
+    "message_en": "1、General stability & performance improvements."
 }
