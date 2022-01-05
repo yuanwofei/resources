@@ -1,9 +1,9 @@
 {
-    "versionCode": "720",
-    "versionName": "7.2.0",
+    "versionCode": "721",
+    "versionName": "7.2.1",
     "url": "",
     "size": "2489703",
     "md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-    "message": "1、修复Google Play报出的安全漏洞问题",
-    "message_en": "1、General stability & performance improvements."
+    "message": "1、新增忽略新版本更新提示功能||2、升级Target Api至32||3、修复已知bug",
+    "message_en": "1. General stability & performance improvements.||2. Added the ability to ignore the new version update prompt.||3. Upgrade Target Api to 32."
 }
