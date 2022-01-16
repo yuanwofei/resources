@@ -1,9 +1,9 @@
 {
-    "versionCode": "721",
-    "versionName": "7.2.1",
+    "versionCode": "722",
+    "versionName": "7.2.2",
     "url": "",
     "size": "2489703",
     "md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-    "message": "1、新增忽略新版本更新提示功能||2、升级Target Api至32||3、修复已知bug",
-    "message_en": "1. General stability & performance improvements.||2. Added the ability to ignore the new version update prompt.||3. Upgrade Target Api to 32."
+    "message": "1、适配部分机型的odm分区||2、适配oppo手机||3、修复已知bug",
+    "message_en": "1. Support the odm partition of some phone.||2. Adapt to the OPPO mobile phone.||3. General stability & performance improvements."
 }
