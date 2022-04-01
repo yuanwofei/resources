@@ -1,9 +1,9 @@
 {
-    "versionCode": "802",
-    "versionName": "8.0.2",
-    "url": "",
-    "size": "2489703",
-    "md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-    "message": "适配Android 13 Themed app icons||2、点击卡片桌面快捷方式逻辑改成一次模拟，一次还原||3、修复已知bug",
-    "message_en": "Adapt to Android 13 Themed app icons.||2. Click the card desktop shortcut logic to change to a simulation, a restore.||3. General stability & performance improvements."
+	"versionCode": "810",
+	"versionName": "8.1.0",
+	"url": "",
+	"size": "2489703",
+	"md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
+	"message": "1、适配Android 13||2、修复部分系统模拟卡片后导致NFC无法正常运行的bug||3、修复已知bug",
+	"message_en": "1、Adapt to Android 13.||2. General stability & performance improvements."
 }
