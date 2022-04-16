@@ -1,9 +1,9 @@
 {
-	"versionCode": "810",
-	"versionName": "8.1.0",
+	"versionCode": "812",
+	"versionName": "8.1.2",
 	"url": "",
 	"size": "2489703",
 	"md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-	"message": "1、适配Android 13||2、修复部分系统模拟卡片后导致NFC无法正常运行的bug||3、修复已知bug",
-	"message_en": "1、Adapt to Android 13.||2. General stability & performance improvements."
+	"message": "1、提升模拟速度||2、修复已知bug.",
+	"message_en": "1. Improve simulation speed.||2. General stability & performance improvements."
 }
