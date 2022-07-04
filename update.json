@@ -1,9 +1,9 @@
 {
-	"versionCode": "813",
-	"versionName": "8.1.3",
+	"versionCode": "814",
+	"versionName": "8.1.4",
 	"url": "",
 	"size": "2489703",
 	"md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-	"message": "1、适配更多的系统||2、修复已知bug.",
-	"message_en": "1. Support more systems.||2. General stability & performance improvements."
+	"message": "1、适配Android 13, Target api 33||2、适配Material Design 3.||3、修复已知bug.",
+	"message_en": "1. Adapt to Android 13, Target api 33.||2. Adapt to Material Design 3.||3. General stability & performance improvements."
 }
