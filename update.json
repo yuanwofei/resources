@@ -1,9 +1,9 @@
 {
-	"versionCode": "814",
-	"versionName": "8.1.4",
+	"versionCode": "815",
+	"versionName": "8.1.5",
 	"url": "",
 	"size": "2489703",
 	"md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-	"message": "1、适配Android 13, Target api 33||2、适配Material Design 3.||3、修复已知bug.",
-	"message_en": "1. Adapt to Android 13, Target api 33.||2. Adapt to Material Design 3.||3. General stability & performance improvements."
+	"message": "1、适配scoped storage存储分区至Android 4.4||2、移除旧版本创建的sd卡数据目录，不再需要||3、适配最新版本的Android 13||4、修复已知bug",
+	"message_en": "1、Adapt the scoped storage partition to Android 4.4||2、Delete the sd card data directory created by the old version, no longer needed||3、Adapt to the latest version of Android 13||4、Known bug fixes."
 }
