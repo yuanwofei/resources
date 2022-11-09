@@ -1,9 +1,9 @@
 {
-	"versionCode": "815",
-	"versionName": "8.1.5",
+	"versionCode": "816",
+	"versionName": "8.1.6",
 	"url": "",
 	"size": "2489703",
 	"md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-	"message": "1、适配scoped storage存储分区至Android 4.4||2、移除旧版本创建的sd卡数据目录，不再需要||3、适配最新版本的Android 13||4、修复已知bug",
-	"message_en": "1、Adapt the scoped storage partition to Android 4.4||2、Delete the sd card data directory created by the old version, no longer needed||3、Adapt to the latest version of Android 13||4、Known bug fixes."
+	"message": "1、适配帮助文档暗亮主题||2、调整部分UI的显示效果||3、修复bug",
+	"message_en": "1、Adapt the dark and light theme of the help document||2、Adjust the display effect of some UI||3、Known bug fixes."
 }
