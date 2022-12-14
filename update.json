@@ -1,9 +1,9 @@
 {
-	"versionCode": "816",
-	"versionName": "8.1.6",
+	"versionCode": "817",
+	"versionName": "8.1.7",
 	"url": "",
 	"size": "2489703",
 	"md5": "B651DFE223B0F2E8027E16AE2DEEF2A5",
-	"message": "1、适配帮助文档暗亮主题||2、调整部分UI的显示效果||3、修复bug",
-	"message_en": "1、Adapt the dark and light theme of the help document||2、Adjust the display effect of some UI||3、Known bug fixes."
+	"message": "1、logo等图标样式优化，另外适配Android 12及以上版本桌面快捷方式图标||2、适配Android 11及以上版本锁屏和Tile快速访问电子钱包模拟卡片特性||3、修复bug",
+	"message_en": "1、Optimized the logo and other icon styles, and adapted to the desktop shortcut icons of Android 12 and above.||2、Adapt to Android 11 and above to quickly access the features of e-wallet simulation cards on the lock screen and Tile.||3、Known bug fixes."
 }
