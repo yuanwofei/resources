@@ -1,9 +1,9 @@
 {
-	"versionCode": "902",
-	"versionName": "9.0.2",
+	"versionCode": "903",
+	"versionName": "9.0.3",
 	"url": "",
 	"size": "2853454",
 	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1、支持KernelSU||2、适配KernelSU卡模块挂载odm分区nfc文件（Magisk暂不支持），将支持nfc配置文件在odm分区的系统||3、适配Android 13设置各应用语言偏好设定特性||4、自动切换默认触碰付款程序||5、su命令添加--mount-master参数挂载全局命名空间||6、修复Android 11起无法切换MIUI的HCE钱包的bug",
-	"message_en": "1. Support KernelSU.||2. Adapt the KernelSU card module to mount the odm partition (Magisk does not support it at the moment), and will support the system where the nfc configuration file is in the odm partition.||3. Adapt to Android 13 and set the language preference setting features of each application.||4. Automatically switch the default payment for NFC Tap & Pay.||5. Add the --mount-master parameter to the su command to mount the global namespace.||6. Fix the bug that the HCE wallet of MIUI cannot be switched since Android 11"
+	"message": "1、支持把部分系统的nfc的ATQA值由0x0308改成0x0004||2、优化和bug修复",
+	"message_en": "1、Support changing the ATQA value of nfc in some systems from 0x0308 to 0x0004.||2. General stability & performance improvements."
 }
