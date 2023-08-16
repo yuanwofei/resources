@@ -1,9 +1,9 @@
 {
-	"versionCode": "903",
-	"versionName": "9.0.3",
+	"versionCode": "904",
+	"versionName": "9.0.4",
 	"url": "",
 	"size": "2853454",
 	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1、支持把部分系统的nfc的ATQA值由0x0308改成0x0004||2、优化和bug修复",
-	"message_en": "1、Support changing the ATQA value of nfc in some systems from 0x0308 to 0x0004.||2. General stability & performance improvements."
+	"message": "1. Target Api 34||2. 适配Android 14||3. 优化和bug修复",
+	"message_en": "1. Adapt to Android 14.||2. Target Api 34.||3. General stability & performance improvements."
 }
