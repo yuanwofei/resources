@@ -1,9 +1,9 @@
 {
-	"versionCode": "904",
-	"versionName": "9.0.4",
+	"versionCode": "905",
+	"versionName": "9.0.5",
 	"url": "",
 	"size": "2853454",
 	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1. Target Api 34||2. 适配Android 14||3. 优化和bug修复",
-	"message_en": "1. Adapt to Android 14.||2. Target Api 34.||3. General stability & performance improvements."
+	"message": "1. 适配Android 14正式版||2. 修复已知bug",
+	"message_en": "1、Adapted to Android 14 official version.||2. General stability & performance improvements."
 }
