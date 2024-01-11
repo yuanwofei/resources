@@ -1,9 +1,9 @@
 {
-	"versionCode": "905",
-	"versionName": "9.0.5",
+	"versionCode": "907",
+	"versionName": "9.0.7",
 	"url": "",
 	"size": "2853454",
 	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1. 适配Android 14正式版||2. 修复已知bug",
-	"message_en": "1、Adapted to Android 14 official version.||2. General stability & performance improvements."
+	"message": "1. 支持单独设置息屏刷卡和刷卡声音||2. 修复已知bug",
+	"message_en": "1、Support separate settings of 'Enable NFC when screen is off' and 'Disable NFC sound'.||2. General stability & performance improvements."
 }
