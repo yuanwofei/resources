@@ -1,9 +1,9 @@
 {
-	"versionCode": "909",
-	"versionName": "9.0.9",
+	"versionCode": "910",
+	"versionName": "9.1.0",
 	"url": "",
 	"size": "2853454",
 	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1、升级卡模块的刷入脚本到最新的版本，以解决在kernelSU中刷入生成的模块后出现的各种问题。||2、适配Material 3。||3、修复xposed/EdXposed/LSPosed特性设置开关失效的问题。||4、修复已知bug",
-	"message_en": "1. Upgrade the flashing script of the card module to the latest version to solve various problems that occur after flashing the generated module in kernelSU.||2. Adapt to Material 3.||3. Fix the problem that the xposed/EdXposed/LSPosed feature setting switch fails.||4. Fix known bugs."
+	"message": "1、适配Andorid 12以下版本Material 3的显示。||2、修复xposed/EdXposed/LSPosed特性设置开关开启失败的bug。||3、修复已知bug。",
+	"message_en": "1. Adapt to the display of Material 3 in versions below Android 12.||2. Fix the problem that the xposed/EdXposed/LSPosed feature setting switch fails.||3. Fix known bugs."
 }
