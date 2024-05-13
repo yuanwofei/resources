@@ -1,9 +1,9 @@
 {
-	"versionCode": "910",
-	"versionName": "9.1.0",
+	"versionCode": "911",
+	"versionName": "9.1.1",
 	"url": "",
 	"size": "2853454",
 	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1、适配Andorid 12以下版本Material 3的显示。||2、修复xposed/EdXposed/LSPosed特性设置开关开启失败的bug。||3、修复已知bug。",
-	"message_en": "1. Adapt to the display of Material 3 in versions below Android 12.||2. Fix the problem that the xposed/EdXposed/LSPosed feature setting switch fails.||3. Fix known bugs."
+	"message": "1、适配Android 15预览版本。||2、配置升级到最新版本。||3、添加更多ic卡解码密钥。||4、修复已知bug。",
+	"message_en": "1. Adapt to Android 15 preview version.||2. Upgrade the configuration to the latest version.||3. Add more IC card decoding keys.||4. Fix known bugs."
 }
