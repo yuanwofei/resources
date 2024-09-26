@@ -1,9 +1,9 @@
 {
-	"versionCode": "912",
-	"versionName": "9.1.2",
-	"url": "",
-	"size": "2853454",
-	"md5": "08F35D56BB4B461569AC917C1622D08A",
-	"message": "1、适配Android 15预览版本。||2、配置升级到最新版本。||3、添加更多ic卡解码密钥。||4、修复已知bug。",
-	"message_en": "1. Adapt to Android 15 preview version.||2. Upgrade the configuration to the latest version.||3. Add more IC card decoding keys.||4. Fix known bugs."
+    "versionCode": "913",
+    "versionName": "9.1.3",
+    "url": "",
+    "size": "2853454",
+    "md5": "08F35D56BB4B461569AC917C1622D08A",
+    "message": "1、适配Android 15。||2、Target Api 35。||3、添加卡片改成不需要root权限。||4、修复已知bug。",
+    "message_en": "1. Adapt to Android 15.||2. Target Api 35.||3. Adding cards no longer requires root permissions.||4. Bug fixes."
 }
