@@ -1,9 +1,9 @@
 {
-    "versionCode": "914",
-    "versionName": "9.1.4",
+    "versionCode": "916",
+    "versionName": "9.1.6",
     "url": "",
     "size": "2853454",
     "md5": "08F35D56BB4B461569AC917C1622D08A",
-    "message": "1、适配Android 15。||2、Target Api 35。||3、添加卡片改成不需要root权限。||4、修复已知bug。",
-    "message_en": "1. Adapt to Android 15.||2. Target Api 35.||3. Adding cards no longer requires root permissions.||4. Bug fixes."
+    "message": "1、优化Root权限申请。||2、部分UI调整。||3、帮助文档更新。||4、修复已知bug。",
+    "message_en": "1. Optimize Root permission application.||2. Adjust some UI.||3. Update the help documents.||4. Fix known bugs."
 }
