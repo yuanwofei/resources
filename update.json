@@ -1,9 +1,9 @@
 {
-    "versionCode": "916",
-    "versionName": "9.1.6",
+    "versionCode": "917",
+    "versionName": "9.1.7",
     "url": "",
     "size": "2853454",
     "md5": "08F35D56BB4B461569AC917C1622D08A",
-    "message": "1、优化Root权限申请。||2、部分UI调整。||3、帮助文档更新。||4、修复已知bug。",
-    "message_en": "1. Optimize Root permission application.||2. Adjust some UI.||3. Update the help documents.||4. Fix known bugs."
+    "message": "1、适配紫光青藤（Tsingteng）的NFC芯片。||2、列表拖拉排序优化。||3、修复已知bug。",
+    "message_en": "1. Adapt to Tsingteng's NFC chip.||2. Optimize list drag and drop sorting.||3. Fix known bugs."
 }
