@@ -1,9 +1,9 @@
 {
-    "versionCode": "917",
-    "versionName": "9.1.7",
+    "versionCode": "918",
+    "versionName": "9.1.8",
     "url": "",
     "size": "2853454",
     "md5": "08F35D56BB4B461569AC917C1622D08A",
-    "message": "1、适配紫光青藤（Tsingteng）的NFC芯片。||2、列表拖拉排序优化。||3、修复已知bug。",
-    "message_en": "1. Adapt to Tsingteng's NFC chip.||2. Optimize list drag and drop sorting.||3. Fix known bugs."
+    "message": "1、适配Android 16||2、适配Android 15及以上系统16 KB页面大小对齐特性||3、修复已知bug",
+    "message_en": "1. Support Android 16.||2. Support the 16 KB page size alignment feature for Android 15 and above.||3. Fix known bugs."
 }
