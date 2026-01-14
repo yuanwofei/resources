@@ -1,9 +1,9 @@
 {
-    "versionCode": "918",
-    "versionName": "9.1.8",
-    "url": "",
-    "size": "2853454",
-    "md5": "08F35D56BB4B461569AC917C1622D08A",
-    "message": "1、适配Android 16||2、适配Android 15及以上系统16 KB页面大小对齐特性||3、修复已知bug",
-    "message_en": "1. Support Android 16.||2. Support the 16 KB page size alignment feature for Android 15 and above.||3. Fix known bugs."
+	"versionCode": "919",
+	"versionName": "9.1.9",
+	"url": "",
+	"size": "2853454",
+	"md5": "08F35D56BB4B461569AC917C1622D08A",
+	"message": "1、卡片排序优化||2、优化16 KB页面大小对齐特性||3、适配更多的第三方系统||4、一些小细节调整||5、修复已知bug",
+	"message_en": "1. Card Sorting Optimization.||2. Optimization of 16 KB Page Size Alignment Feature.||3. Adaptation to More Third-Party Systems.||4. Minor Detail Adjustments."
 }
